@@ -1,75 +1,107 @@
----
++++
 # Display name
-title: Nelson Bighetti
+title = "Jugal Marfatia"
 
 # Username (this should match the folder name)
-authors:
-- admin
+authors = ["admin"]
 
 # Is this the primary user of the site?
-superuser: true
+superuser = true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role = "PhD Economics | MS Statistics Student"
 
 # Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
+#   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
+organizations = [ {name="Washington State University", url="wsu.edu"}]
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+bio = "My research interest lies at the intersection of econometrics and machine learning."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email = ""
+
+# List (academic) interests or hobbies
+interests = [
+  "Econometrics",
+  "Machine Learning",
+  "Data Science"
+]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
----
+user_groups = ["Researchers", "Visitors"]
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+# List qualifications (such as academic degrees)
+[[education.courses]]
+  course = "PhD in Economics"
+  institution = "Washington State University"
+  year = "Expected 2021"
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+[[education.courses]]
+  course = "MS in Statistics"
+  institution = "Washington State University"
+  year = "Expected 2021"
+
+[[education.courses]]
+  course = "MA in Economics"
+  institution = "San Diego State University"
+  year = 2017
+
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
+[[social]]
+  icon = "envelope"
+  icon_pack = "fas"
+  link = "mailto:jugal.marfatia@wsu.edu"  # For a direct email link, use "mailto:jugal.marfatia@wsu.edu".
+
+# [[social]]
+#   icon = "twitter"
+#   icon_pack = "fab"
+#   link = "https://twitter.com/GeorgeCushen"
+
+#[[social]]
+#  icon = "google-scholar"
+#  icon_pac#k = "ai"
+#  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+
+[[social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/jugalm"
+  
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://www.linkedin.com/in/jugal-marfatia"
+
+
+#Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+[[social]]
+  icon = "cv"
+  icon_pack = "ai"
+  link = "files/JM_CV.pdf"
+
+[[social]]
+  icon = "medium"
+  icon_pack = "fab"
+  link = "https://medium.com/@jmarfati"
+
+[[social]]
+  icon = "kaggle"
+  icon_pack = "fab"
+  link = "https://www.kaggle.com/jmarfati"
+
++++
+
+I am a 4th year PhD student in economics and simultaneously pursuing a masters in statistics at Washington State University. 
+
+My research interest lies at the intersection of econometrics and machine learning.
+
+Please contact me at: <jugal.marfatia@wsu.edu>
+
+CV: [\[PDF\]](files/JM_CV.pdf)
