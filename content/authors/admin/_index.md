@@ -84,7 +84,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "cv"
   icon_pack = "ai"
-  link = "files/JM_CV.pdf"
+  link = "media/JM_CV.pdf"
 
 [[social]]
   icon = "medium"
@@ -104,4 +104,4 @@ My research interest lies at the intersection of econometrics and machine learni
 
 Please contact me at: <jugal.marfatia@wsu.edu>
 
-CV: [\[PDF\]](files/JM_CV.pdf)
+CV: [\[PDF\]](media/JM_CV.pdf)
