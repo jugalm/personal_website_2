@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -19,14 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Kaggle/ NFL"
+  organization_url = "https://www.kaggle.com/c/nfl-big-data-bowl-2020"
+  title = "Top 1% (silver medal), Kaggle NFL Big Data Bowl Competition 2020."
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2019-10-01"
   date_end = ""
-  description = ""
+  description = "The main objective of the competition was to develop a model to predict how many yards a team
+   will gain on given rushing plays as they happen. We provided game, play, and player-level data, including the position and speed of players as provided in the NFL’s Next Gen Stats data."
 
 [[item]]
   organization = "edX"
