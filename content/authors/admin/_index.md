@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Data Scientist | PhD Economics, MS Statistics Student | Kaggle Competition Expert (Top 2%)"
+role = "Data Scientist /n PhD Economics, MS Statistics Student <br> Kaggle Competition Expert (Top 2%)"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
