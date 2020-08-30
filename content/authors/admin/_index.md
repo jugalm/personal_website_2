@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "PhD Economics | MS Statistics Student"
+role = "Data Scientist | PhD Economics, MS Statistics Student | Kaggle Competition Expert (Top 2%)"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ {name="Washington State University", url="wsu.edu"}]
+organizations = []
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interest lies at the intersection of econometrics and machine learning."
