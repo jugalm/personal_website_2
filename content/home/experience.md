@@ -40,7 +40,7 @@ date_format = "January 2006"
   company = "Washington State University"
   company_url = ""
   location = "Pullman, Washington"
-  date_start = "2018-01-01"
+  date_start = "2017-08-01"
   date_end = ""
   description = """  
   * EconS 321 - Economics of Sports in America. (4 Semesters, 2 In-Class and 2 Online)
