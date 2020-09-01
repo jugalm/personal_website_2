@@ -11,3 +11,4 @@ external_link: https://www.kaggle.com/jmarfati/actual-spread-of-covid19-us-count
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
+---
