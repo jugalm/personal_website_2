@@ -1,8 +1,9 @@
 ---
 title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+summary: Wimbledon Predictions using Neural Network.
+The Neural Network predicts Novak Djokovic to be the ultimate champion beating Roger Federer in the finals.
 tags:
-- Demo
+- Machine Learning
 date: "2016-04-27 T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
