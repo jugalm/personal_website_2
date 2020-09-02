@@ -29,8 +29,8 @@ date_format = "January 2006"
   Responsibilities included:
   
   * Developed Python based demographic and economic forecasting model adopted by 17 San Diego counties for regional planning:
-   ([Github](github.com/SANDAG/pydefm.))
-  * Contributed towards the development of real estate forecasting model also based in Python. ([Github](github.com/SANDAG/sandag_urbansim.))
+   ([Github](https://github.com/SANDAG/pydefm))
+  * Contributed towards the development of real estate forecasting model also based in Python. ([Github](https://github.com/SANDAG/sandag_urbansim))
   * Developed Python/SQL scripts which automated import, storage and analysis of data from external sources such as BLS, BEA, Census, California Dept. of finance, California Dept. of Education and others.
   * Developed several visualization and logical check tools for data quality check purposes. Assisted on data request from other internal de- partments and external organizations.
   * Made presentations to team members and senior executives of Sandag explaining modeling process and results.
