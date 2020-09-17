@@ -26,6 +26,8 @@ theme = "academic"
 # Get last modified date for content from Git?
 enableGitInfo = false
 
+googleAnalytics = "UA-137807841-1"
+
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
