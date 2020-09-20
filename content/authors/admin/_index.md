@@ -95,5 +95,3 @@ I am a 4th year PhD student in economics and simultaneously pursuing a masters i
 My research interest lies at the intersection of econometrics and machine learning.
 
 Please contact me at: <jugal.marfatia@wsu.edu>
-
-CV: [\[PDF\]](media/JM_CV.pdf)
